@@ -13,9 +13,11 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 ## Dia 04: [Efeito Hover](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%204)
 ![Efeito-hover-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/90658557-18b89b00-e21a-11ea-9b26-fca8c907041a.gif)
 
-## Dia 05: [Efeito Pulsar]()
+## Dia 05: [Efeito Pulsar](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%205)
+![Pulsar-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/90982957-1e2b2380-e541-11ea-91aa-6ff88504203e.gif)
 
-## Dia 06: [Efeito Lightning Text]()
+## Dia 06: [Efeito Lightning Text](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%206)
+![CSS-animation-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/90983003-634f5580-e541-11ea-92dc-757738c23fc3.gif)
 
 ## Dia 07: [Preloader animado]()
 
