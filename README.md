@@ -19,7 +19,7 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 ## Dia 06: [Efeito Lightning Text](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%206)
 ![CSS-animation-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/90983003-634f5580-e541-11ea-92dc-757738c23fc3.gif)
 
-## Dia 07: [Preloader animado]()
+## Dia 07: [Preloader animado](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%207)
 
 ## Dia 08 [Coração batendo]()
 
