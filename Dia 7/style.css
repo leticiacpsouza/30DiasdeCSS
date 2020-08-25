@@ -1,0 +1,89 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #0B0B3B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.loader
+{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 100px;
+}
+.loaderTwo{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 100px;
+}
+.loaderTree{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 100px;
+}
+span
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color:#FFFF00;
+    border-radius: 15px;
+    animation: chase 2s linear infinite;
+
+}
+
+.loaderTwo span{
+    width: 50px;
+    height: 50px;
+    background: #FFFF00;
+    border-radius: 50%
+}
+
+.loaderTree span{
+    width: 0px;
+    height: 0px;
+    border-right: 25px solid #0B0B3B;
+    border-top: 25px solid #FFFF00;
+    border-left: 25px solid #FFFF00;
+    border-bottom: 25px solid #FFFF00;
+    border-top-left-radius: 60px; 
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+span:nth-child(2)
+{
+    animation-delay: 0.7s;
+}
+span:nth-child(1)
+{
+    animation-delay: 1.4s;
+}
+
+
+@keyframes chase
+{
+    0% {top: 0; left: 0;}
+
+    12.5% { top: 0; left: 50%;}
+
+    25% { top: 0; left: 50%;}
+
+    37.5% { top: 50%; left: 50%;}
+
+    50% { top: 50%; left: 50%;}
+
+    62.5% { top: 50% ; left: 0;}
+
+    75% { top: 50% ; left: 0;}
+
+    82.5% { top: 0; left: 0;}
+
+    100% { top: 0; left: 0;}
+}
