@@ -25,6 +25,7 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 ## Dia 08 [Coração batendo](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%208)
 ![Coração-Batendo-Pessoal-—-Microsoft_-Edge-2020-08-23-19-42-43_Trim-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/91452407-e976df00-e854-11ea-987a-fd4a0d798a91.gif)
 
-## Dia 09 [Pêndulo de Newton]()
+## Dia 09 [Pêndulo de Newton](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%209)
+![Pendulo-de-Newton-Pessoal-—-Microsoft_-Edge-2020-08-24-13-07-37_Trim-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/91590722-29f85a80-e932-11ea-9e0d-711535c083be.gif)
 
 ## Dia 10 [Animação texto alternando]()
