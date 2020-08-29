@@ -28,4 +28,5 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 ## Dia 09 [Pêndulo de Newton](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%209)
 ![Pendulo-de-Newton-Pessoal-—-Microsoft_-Edge-2020-08-24-13-07-37_Trim-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/91590722-29f85a80-e932-11ea-9e0d-711535c083be.gif)
 
-## Dia 10 [Animação texto alternando]()
+## Dia 10 [Animação texto alternando](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%2010)
+![EU-AMO-Pessoal-—-Microsoft_-Edge-2020-08-25-14-13-47_Trim-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/91638680-9b461500-e9e7-11ea-9823-2a47bee25065.gif)
