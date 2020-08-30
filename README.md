@@ -30,3 +30,23 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 
 ## Dia 10 [Animação texto alternando](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%2010)
 ![EU-AMO-Pessoal-—-Microsoft_-Edge-2020-08-25-14-13-47_Trim-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/91638680-9b461500-e9e7-11ea-9823-2a47bee25065.gif)
+
+## Dia 11 [Botão com efeito hover]()
+
+## Dia 12 [Efeito de preenchimento ao passar o mouse]()
+
+## Dia 13 [Loading com efeito]()
+
+## Dia 14 [ Fundo de texto animado]()
+
+## Dia 15 [Texto flutuante]()
+
+## Dia 16 [ Botão com efeito]()
+
+## Dia 17 [Loader animado]()
+
+## Dia 18 [Texto esfumaçado]()
+
+## Dia 19 [Efeitos de animação fundo de partículas]()
+
+## Dia 20 [Botão com efeito]()
