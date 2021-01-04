@@ -1,0 +1,27 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Merienda One', cursive;
+	background-color: rgba(31, 3, 34, 0.363);
+}
+
+h1 {
+	font-size: 200px;
+    text-align: center;
+    letter-spacing: 5px;
+	text-transform: uppercase;
+	background: url(image.jpg);
+	-webkit-background-clip: text;
+	color: transparent;
+	animation: text-background 20s linear infinite;
+}
+
+@keyframes text-background {
+
+	from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+
+} 
