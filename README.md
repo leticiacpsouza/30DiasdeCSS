@@ -1,5 +1,5 @@
-# 30 Dias de CSS
-Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em HTML e CSS.
+# Projetos de CSS
+Projetos inspirados no #Desafio30DiasCSS no pela @MilenaCarecho com o intuito de melhorar as habilidades em HTML e CSS.
 
 ## Dia 01: [Ícone de Mídia Social em camadas](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%201)
 ![Ícone-de-mídia-social-em-camadas-_online-video-cutter com_-_1_](https://user-images.githubusercontent.com/65188295/90153409-53748c00-dd5f-11ea-9319-1458315b7e8d.gif)
@@ -34,20 +34,10 @@ Projeto criado pela @MilenaCarecho com o intuito de melhorar as habilidades em H
 ## Dia 11 [Botão com efeito hover](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%2011)
 ![Botão-com-efeito-hover-Google-Chrome-2020-08-26-12-43-56-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/93691298-97bf1e80-fab9-11ea-9fe5-c9ceff1e7107.gif)
 
-## Dia 12 [Efeito de preenchimento ao passar o mouse]()
+## Dia 12 [Efeito de preenchimento ao passar o mouse](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%2012)
+![Efeito-preenchimento-Google-Chrome-2020-08-27-11-52-47-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/103588218-77c83500-4ec7-11eb-8347-cf9972573e59.gif)
 
-## Dia 13 [Loading com efeito]()
+## Dia 13 [Loading com efeito](https://github.com/leticiacpsouza/30DiasdeCSS/tree/master/Dia%2013)
+![Loading-Pessoal-—-Microsoft_-Edge-2020-08-28-12-39-28-_online-video-cutter com_](https://user-images.githubusercontent.com/65188295/103588304-aa722d80-4ec7-11eb-8743-ca6ccbb782e5.gif)
 
-## Dia 14 [ Fundo de texto animado]()
 
-## Dia 15 [Texto flutuante]()
-
-## Dia 16 [ Botão com efeito]()
-
-## Dia 17 [Loader animado]()
-
-## Dia 18 [Texto esfumaçado]()
-
-## Dia 19 [Efeitos de animação fundo de partículas]()
-
-## Dia 20 [Botão com efeito]()
